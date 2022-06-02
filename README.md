@@ -12,7 +12,7 @@ b. Almost 64% of Senior Level positions (29,914 Senior Engineers, and 28,254 Sen
 c. The department with the most retirees is Development (25%) followed by Production (22%)
 d. There are 1,940 employees elibible for the mentorship program
 
-![mentorship_eligibility] (https://github.com/Shikharbhd/Pewlett-Hackard-Analysis/blob/main/Analysis_Projects_Folder/Pewlett-Hackard-Analysis%20Folder/mentorship_eligibility.png)
+![mentorship_eligibility](https://github.com/Shikharbhd/Pewlett-Hackard-Analysis/blob/main/Analysis_Projects_Folder/Pewlett-Hackard-Analysis%20Folder/mentorship_eligibility.png)
 
 ### Summary: 
 
